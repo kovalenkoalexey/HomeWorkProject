@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DigitToWordTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-22T10:20:07" hostname="WIN-R7SF2OLK14G" time="0.003">
+  <properties/>
+  <testcase name="getHundreds()" classname="DigitToWordTest" time="0.0"/>
+  <testcase name="getWordMillions()" classname="DigitToWordTest" time="0.0"/>
+  <testcase name="getTens()" classname="DigitToWordTest" time="0.001"/>
+  <testcase name="getBelowTwenty()" classname="DigitToWordTest" time="0.0"/>
+  <testcase name="getWordThousands()" classname="DigitToWordTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
